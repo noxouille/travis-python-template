@@ -1,6 +1,6 @@
 # Travis Python Template
 
-[![build status](http://img.shields.io/travis/jakevdp/travis-python-template/master.svg?style=flat)](https://travis-ci.org/jakevdp/travis-python-template)
+[![build status](http://img.shields.io/travis/noxouille/travis-python-template/master.svg?style=flat)](https://travis-ci.org/noxouille/travis-python-template)
 
 This package provides a basic template for setting up Travis CI with Python.
 It assumes you are using ``conda`` for installation of dependencies, and
